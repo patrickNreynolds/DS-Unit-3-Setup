@@ -2,6 +2,17 @@
 Mac and Windows setup instructions for Data Science Unit 3
 
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 ## GitHub SSH Key Setup:
 
 ### Create the SSH Key
