@@ -4,11 +4,11 @@ Mac and Windows setup instructions for Data Science Unit 3
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Mac Setup Instructions</b></td>
+    <td><b style="font-size:30px">Windows Setup Instructions</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+  <td><h2>Install the VSCode Text Editor</h2><a href="https://code.visualstudio.com/download">VSCode Download Page</a>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
