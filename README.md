@@ -51,6 +51,8 @@ To get started with Python locally, if you haven't already done so as instructed
 
 > IMPORTANT NOTE: please check the "add to PATH" option during installation, especially on Windows, so Anaconda will integrate with the other local development tools, such as Git Bash on Windows.
 
+![Add to Path](/images/path.png)
+
 > FYI: this installation process can take a half-hour or more, so prefer to do it over a strong Internet connection.
 
 After installing Anaconda, you'll have access to the Python language and its side-kick, the Pip package manager. For more information on Python, see this bonus [`python` reference document](https://github.com/prof-rossetti/intro-to-python/blob/master/notes/clis/python.md). For more information on Pip, see this bonus [`pip` reference document](https://github.com/prof-rossetti/intro-to-python/blob/master/notes/clis/pip.md).
