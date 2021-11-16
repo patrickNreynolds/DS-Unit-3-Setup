@@ -110,7 +110,7 @@ Finally, we need a version control utility to manage different versions of our s
 
 Unless you already have one, please take a moment to [create a GitHub account](https://github.com/) and if you haven't already, consider redeeming your [GitHub Student Developer Pack](https://education.github.com/pack), which provides some free resources. 
 
-To access your Student Developer pack and verify that you are a Lambda School student, please go to <https://dashboards.lambdaschool.com/> and click on the profile picture area in the top right corner, and then from the dropdown menu select "My GitHub." 
+To access your Student Developer pack and verify that you are a BloomTech student, please go to <https://dashboards.bloomtech.com/> and click on the profile picture area in the top right corner, and then from the dropdown menu select "My GitHub." 
 
 ![My GitHub - Student Developer Pack](/images/my_github.png)
 
