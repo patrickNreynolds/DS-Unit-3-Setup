@@ -116,7 +116,7 @@ To access your Student Developer pack and verify that you are a BloomTech studen
 
 You may be prompted to log in to your GitHub account if you're not already. Then click "Get the GitHub Student Developer Pack" to redeem a whole bunch of cool offers and discounts. 
 
-### Authenticating with GitHub
+### <a name="ssh">Authenticating with GitHub</a
 
 Recently GitHub has discontinued its support of accessing repositories via https (which used to be the easiest way of authenticating with a repository). We now recommend that all students set up a SSH key and add it to their GitHub account in order to access repositories via SSH. SSH keys are device specific so you might need to do this once for each decide that you're going to want to access repositories from.
 
