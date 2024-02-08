@@ -47,7 +47,7 @@ Ultimately, Windows users may opt to use an alternative tool such as the Command
 
 ## Programming Language
 
-To get started with Python locally, if you haven't already done so as instructed during Unit 2, you'll want to [download and install Anaconda](https://www.anaconda.com/distribution/), which will provide the ability to install and manage local installations of Python and third-party Python packages.
+To get started with Python locally, if you haven't already done so as instructed during Unit 2, you'll want to [download and install Anaconda]([https://www.anaconda.com/distribution/](https://www.anaconda.com/download)), which will provide the ability to install and manage local installations of Python and third-party Python packages.
 
 > IMPORTANT NOTE: please check the "add to PATH" option during installation, especially on Windows, so Anaconda will integrate with the other local development tools, such as Git Bash on Windows.
 
