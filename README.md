@@ -90,8 +90,10 @@ The warning here does need to be addressed before pipenv will work properly. You
 
 4. On the final screen click the "New" button and add the following two filepaths as new environment variables:
 
-`Please note the version of python you have installed. Below we are using "Python312", latest of writing. **` 
+`Please note the version of python you have installed. Below we are using "Python312"` 
 `If you are unsure what version you are using, you may check your python installation or contact Live support `
+`Generally, Python version are in #.#.# notation. ex: 3.12.2 `
+`For your path, generall you will take only #.# and remove the period as you below 3.12.2 => Python312`
 
 `C:\Users\<username>\AppData\Roaming\Python\Python312\Scripts`
 
