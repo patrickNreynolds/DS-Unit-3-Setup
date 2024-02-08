@@ -90,11 +90,15 @@ The warning here does need to be addressed before pipenv will work properly. You
 
 4. On the final screen click the "New" button and add the following two filepaths as new environment variables:
 
-`C:\Users\<username>\AppData\Roaming\Python\Python38\Scripts`
+`Please note the version of python you have installed. Below we are using "Python312", latest of writing. **` 
+`If you are unsure what version you are using, you may check your python installation or contact Live support `
 
-`c:\Users\<username>\AppData\Roaming\Python\Python38\Site-Packages`
+`C:\Users\<username>\AppData\Roaming\Python\Python312\Scripts`
+
+`c:\Users\<username>\AppData\Roaming\Python\Python312`
 
 Replace `<username>` in the path with your usename. Also, please note the lowercase `c` in the second filepath. I'm not sure if it really matters, but mine didn't work until I made it lowercase. :shrugs:
+
 
 ![Path Variables for Pipenv](/images/path_variables.png)
 
