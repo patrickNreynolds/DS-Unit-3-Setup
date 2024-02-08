@@ -65,7 +65,7 @@ The first alternative, which you may be using almost exclusively in other units,
 
 > NOTE: when using `conda` to activate a virtual environment for the first time, when prompted to do so, Git Bash users on Windows may need to run `conda init bash` and Zsh users on Mac may need to run `conda init zsh`.
 
-The second alternative, which we'll be using almost exclusively in this unit, is [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/). For more information on Pipenv, see this bonus [`pipenv` reference document](https://github.com/prof-rossetti/intro-to-python/blob/master/notes/python/packages/pipenv.md). Installation guidance:
+The second alternative, which we'll be using almost exclusively in this unit, is [Pipenv](https://pipenv.pypa.io/en/latest/). For more information on Pipenv, see this bonus [`pipenv` reference document](https://github.com/prof-rossetti/intro-to-python/blob/master/notes/python/packages/pipenv.md). Installation guidance:
 
 Mac users are encouraged to download Pipenv via [homebrew](https://github.com/prof-rossetti/intro-to-python/blob/master/notes/clis/brew.md) (`brew install pipenv`). NOTE: Homebrew is a popular and amazing programmatic installation tool that no Mac developer should go without!
 
